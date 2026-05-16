@@ -4,7 +4,9 @@ import HeroSection from '@/components/HeroSection.vue';
 </script>
 
 <template>
-    <Navbar />
-    <HeroSection />
+    <div class="relative bg-[#0b1220] text-white min-h-screen overflow-hidden">
+        <Navbar />
+        <HeroSection />
+    </div>
 </template>
 
