@@ -1,6 +1,5 @@
 <template>
     <section class="relative isolate min-h-screen px-6">
-
         <div
             class="absolute -left-72 top-20
             w-212.5 h-212.5
@@ -28,7 +27,7 @@
 
         <div class="absolute bottom-0 left-0 w-full h-50 bg-black/15 blur-2xl"></div>
 
-        <div class="relative z-10 max-w-5xl mx-auto min-h-screen flex flex-col items-center justify-center text-center gap-12">
+        <div class="relative z-10 max-w-5xl mx-auto h-screen flex flex-col items-center justify-center text-center gap-12">
             <h1 class="max-w-4xl text-5xl md:text-7xl font-bold">Automate your workflow in seconds</h1>
             <p class="max-w-2xl text-base md:text-lg text-slate-300">
                 Connect your apps, automate repetitive work, and save hours every week

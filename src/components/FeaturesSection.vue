@@ -1,6 +1,6 @@
 <template>
-  <section class="relative overflow-hidden">
-    <div class="relative max-w-6xl mx-auto py-20 px-6">
+  <section class="py-24 px-6">
+    <div class="max-w-6xl mx-auto">
         <div class="max-w-xl mb-20">
             <p class="text-sm text-indigo-500 font-medium tracking-wide uppercase">Features</p>
             <h2 class="mt-4 text-4xl md:text-5xl font-bold leading-tight max-w-xl">Everything you need to automate your workflow</h2>
@@ -15,7 +15,7 @@
                    <Zap class="w-5 h-5 text-indigo-500"/>
                    <h3 class="text-lg font-semibold">Instant Automation</h3>
                 </div>
-                <p class="mt-2 text-slate-400 text-sm leading-relaxed">
+                <p class="text-slate-400 text-sm leading-relaxed">
                     Automate repetitive tasks in seconds and eliminate manual work so your team can focus on what matters most
                 </p>
             </div>
