@@ -1,7 +1,7 @@
 <template>
   <section class="py-24 px-6">
     <div class="max-w-6xl mx-auto">
-        <div class="max-w-xl mb-20">
+        <div class="max-w-2xl mb-20">
             <p class="text-sm text-indigo-500 font-medium tracking-wide uppercase">Features</p>
             <h2 class="mt-4 text-4xl md:text-5xl font-bold leading-tight max-w-xl">Everything you need to automate your workflow</h2>
             <p class="mt-6 text-lg text-slate-300 leading-relaxed">

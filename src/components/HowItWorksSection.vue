@@ -2,8 +2,8 @@
     <section class="py-24 px-6">
         <div class="max-w-6xl mx-auto">
             <div class="max-w-2xl mx-auto text-center mb-12">
-                <p class="text-sm text-indigo-500 mb-3">How It Works</p>
-                <h2 class="text-4xl mb-2">Get started in three simple steps</h2>
+                <p class="text-sm text-indigo-500 mb-3 font-medium tracking-wide uppercase">How It Works</p>
+                <h2 class="text-3xl mb-2 md:text-4xl font-bold leading-tight">Get started in three simple steps</h2>
             </div>
 
             <div class="flex flex-col md:flex-row gap-8">
